@@ -1,8 +1,4 @@
-<!-- lxphisher -->
-
-<p align="center">
-  <img src=".img/logo.png">
-</p>
+<!-- cyberphisher -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
@@ -13,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-LxaNce--Hacker-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
@@ -39,7 +34,6 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - Latest and updated login pages.
 - Mask URL support 
 - Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
 - Multiple tunneling options
   - Localhost
   - Ngrok (With or without hotspot)
@@ -50,22 +44,16 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/LxaNce-Hacker/RealLxPhisher
+$ git clone https://github.com/Cyber-Caliphate16/Cyberphisher
 ```
 
-- Change to cloned directory and run `lxphisher.sh` -
+- Change to cloned directory and run `cyberphisher.sh` -
 ```
-$ cd RealLxPhisher
-$ bash lxphisher.sh
+$ cd cyberphisher
+$ bash cyberphisher.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `lxphisher` is installed.
-
-### Run on Docker
-```
-$ docker pull LxaNce-Hacker/RealLxPhisher
-$ docker run --rm -it LxaNce-Hacker/RealLxPhisher
-```
 
 ### Dependencies
 
@@ -80,18 +68,4 @@ $ docker run --rm -it LxaNce-Hacker/RealLxPhisher
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 
 ##
-
-<h3 align="center">
-:: Workflow ::
-</h3>
-<p align="center">
-<img src=".imgs/wf.gif"/>
-</p>
-
-### Find Me on :
-<p align="left">
-  <a href="https://github.com/LxaNce-Hacker" target="_blank"><img src="https://img.shields.io/badge/Github-LxaNce--Hacker-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/_____" target="_blank"><img src="https://img.shields.io/badge/IG-%40lxance-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://m.me/________l" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
-</p>
 

@@ -1,17 +1,5 @@
 <!-- cyberphisher -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/LxaNce/RealLxPhisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/LxaNce/RealLxPhisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/LxaNce/RealLxPhisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/LxaNce/RealLxPhisher?label=Fork&color=teal&style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
-</p>
 
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
 

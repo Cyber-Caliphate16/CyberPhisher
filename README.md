@@ -27,7 +27,6 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   - Ngrok (With or without hotspot)
   - Cloudflared (Alternative of Ngrok)
 
-
 ### Installation
 
 - Just, Clone this repository -
